@@ -23,7 +23,8 @@
         "cursorShape": "vintage",
         "experimental.retroTerminalEffect": true,
         "font": {
-          "face": "Lucida Sans Typewriter"
+          "face": "Lucida Sans Typewriter",
+          "size": 14.0
         },
         "guid": "{b254e6e0-cee2-42a9-8242-ef04f730257a}",
         "hidden": false,
@@ -41,24 +42,24 @@
       "background": "#0C0C0C",
       "black": "#0C0C0C",
       "blue": "#005F00",
-      "brightBlack": "#767676",
+      "brightBlack": "#002F00",
       "brightBlue": "#005F00",
-      "brightCyan": "#008E00",
+      "brightCyan": "#005F00",
       "brightGreen": "#005F00",
       "brightPurple": "#005F00",
-      "brightRed": "#008E00",
-      "brightWhite": "#26E476",
-      "brightYellow": "#26E476",
-      "cursorColor": "#FFFFFF",
-      "cyan": "#008E00",
-      "foreground": "#26E476",
+      "brightRed": "#005F00",
+      "brightWhite": "#00EE00",
+      "brightYellow": "#008E00",
+      "cursorColor": "#005F00",
+      "cyan": "#005F00",
+      "foreground": "#00EE00",
       "green": "#005F00",
       "name": "Fallout",
       "purple": "#005F00",
-      "red": "#008E00",
+      "red": "#005F00",
       "selectionBackground": "#0C0C0C",
-      "white": "#26E476",
-      "yellow": "#26E476"
+      "white": "#00EE00",
+      "yellow": "#008E00"
     }
   ]
 }
